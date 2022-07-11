@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-   <img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png' />
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png' />
 
 
 <h3 align="center">GE Stock Price Analysis Using R Language</h3>
