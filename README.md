@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png' />
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png' width="50 px" height="50 px" />
 
 
 <h3 align="center">GE Stock Price Analysis Using R Language</h3>
